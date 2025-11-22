@@ -257,7 +257,7 @@ An Electron window will automatically open with the running application.
 
 1️⃣︲**Access the releases page.**
 
-Go to the **︲[`📦` Releases](https://github.com/Bherl1/DiscordAccMgr/releases)** page
+Go to the **[`📦` Releases](https://github.com/Bherl1/DiscordAccMgr/releases)** page
 
 ---
 
