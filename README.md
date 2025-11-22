@@ -536,9 +536,9 @@ Open a Pull Request on GitHub with a detailed description of your modifications.
 
 | Resource | Link |
 |----------|------|
-| `🐛` ︲**Bug Tracker** | [`🌐` Report a Bug](https://github.com/Bherl1/DiscordAccMgr/issues)︲ |
-| `📦` ︲**Releases** | [`🌐` Download](https://github.com/Bherl1/DiscordAccMgr/releases)︲ |
-| `💻` ︲**Source Code** | [`🌐` GitHub](https://github.com/Bherl1/DiscordAccMgr)︲ |
+| `🐛` ︲**Bug Tracker** | [`🌐` Report a Bug](https://github.com/Bherl1/DiscordAccMgr/issues) |
+| `📦` ︲**Releases** | [`🌐` Download](https://github.com/Bherl1/DiscordAccMgr/releases) |
+| `💻` ︲**Source Code** | [`🌐` GitHub](https://github.com/Bherl1/DiscordAccMgr) |
 
 ---
 
@@ -580,7 +580,7 @@ We hope this tool improves your Discord experience.
 
 1️⃣︲**Report a Bug.**
 
-Open an issue in the [`🐛` Issues](https://github.com/Bherl1/DiscordAccMgr/issues)︲ section
+Open an issue in the [`🐛` Issues](https://github.com/Bherl1/DiscordAccMgr/issues) section
 
 ---
 
