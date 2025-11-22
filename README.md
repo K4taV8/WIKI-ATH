@@ -517,7 +517,7 @@ Open a Pull Request on GitHub with a detailed description of your modifications.
 
 > [!NOTE]
 > This project is distributed under the **MIT License**.
-> See the ︲[`📄` LICENSE](LICENSE)︲ file for more details.
+> See the [`📄` LICENSE](LICENSE) file for more details.
 
 ### `✅`︲Summary:
 
@@ -536,9 +536,9 @@ Open a Pull Request on GitHub with a detailed description of your modifications.
 
 | Resource | Link |
 |----------|------|
-| `🐛` ︲**Bug Tracker** | [`🌐` Report a Bug](https://github.com/Bherl1/DiscordAccMgr/issues) |
-| `📦` ︲**Releases** | [`🌐` Download](https://github.com/Bherl1/DiscordAccMgr/releases) |
-| `💻` ︲**Source Code** | [`🌐` GitHub](https://github.com/Bherl1/DiscordAccMgr) |
+| `🐛` ︲**Bug Tracker** | [`🌐`︲Report a Bug](https://github.com/Bherl1/DiscordAccMgr/issues) |
+| `📦` ︲**Releases** | [`🌐`︲Download](https://github.com/Bherl1/DiscordAccMgr/releases) |
+| `💻` ︲**Source Code** | [`🌐`︲GitHub](https://github.com/Bherl1/DiscordAccMgr) |
 
 ---
 
