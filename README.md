@@ -144,22 +144,20 @@ git clone https://github.com/Bherl1/DiscordAccMgr.git
 ```bash
 cd DiscordAccMgr
 ```
+---
 
-<details>
-  <summary><strong>📸︲Project Structure Overview</strong></summary>
+Project Structure Overview : 
   
+ ```
+├── electron/
+├── images/
+├── src/
+├── LICENSE
+├── README.md
+├── index.html
+├── package-lock.json
+└── package.json
   ```
-  DiscordAccMgr/
-  ├── images/
-  │   ├── 1.png
-  │   ├── 2.png
-  │   └── 3.png
-  ├── src/
-  ├── package.json
-  ├── README.md
-  └── LICENSE
-  ```
-</details>
 
 ---
 
