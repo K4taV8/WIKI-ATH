@@ -580,7 +580,7 @@ We hope this tool improves your Discord experience.
 
 1️⃣︲**Report a Bug.**
 
-Open an issue in the ︲[`🐛` Issues](https://github.com/Bherl1/DiscordAccMgr/issues)︲ section
+Open an issue in the [`🐛` Issues](https://github.com/Bherl1/DiscordAccMgr/issues)︲ section
 
 ---
 
