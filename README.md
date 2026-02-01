@@ -85,7 +85,7 @@ Toute contribution constructive est appréciée 💙
 
 ***
 
-<img src="https://images-ext-1.discordapp.net/external/bOoFnnNdNXoq9dhQLVYrABBP_RurdD15HiX1pFcfh0g/https/media.tenor.com/-ZDt5g6w9eAAAAPo/batman-bruce-wayne.mp4"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9naGZzMXZma2JtMDkxZWQ2OThrcXVnbmpsNmZ4djN1ampoM21paCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ldwwMf8CW61zSiXO0g/giphy.gif"/>
 
 
 
