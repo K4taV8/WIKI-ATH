@@ -81,10 +81,11 @@ Toute contribution constructive est appréciée 💙
 
 🔗 **GitHub**: [github.com/the-mysterious](https://github.com/the-mysterious)
 
-🖋️ **Author**: The-Mysterious
+🖋️ **Author**: The-Mysterious | K4taV8
 
 ***
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg5c2JrZG9nNWtwdmE0cjVpZnExcjVmYXVyajF6Njd1Y3E4dHdqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oTAxWZ0gYzxT2/giphy.gif"/>
+
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt4ajA1amZuYWd6M2p4d3dxY3BoYWpscXVob3A0amhjeTR4ZTkwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ldwwMf8CW61zSiXO0g/giphy.gif"/>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg5c2JrZG9nNWtwdmE0cjVpZnExcjVmYXVyajF6Njd1Y3E4dHdqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oTAxWZ0gYzxT2/giphy.gif"/>
