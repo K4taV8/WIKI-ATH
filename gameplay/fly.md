@@ -1,8 +1,4 @@
----
-icon: feather
----
-
-# Fly
+# 🪶・Fly
 
 Le serveur vous propose de pouvoir fly dans vos claim pour se faire vous devez utiliser une plume tempfly et effectuer la commande `/tfly`&#x20;
 
