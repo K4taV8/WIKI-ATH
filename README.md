@@ -85,4 +85,4 @@ Toute contribution constructive est appréciée 💙
 
 ***
 
-<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/b4dea47c-adf9-414e-9f34-cb26a18fa4df" />
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9naGZzMXZma2JtMDkxZWQ2OThrcXVnbmpsNmZ4djN1ampoM21paCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ldwwMf8CW61zSiXO0g/giphy.gif
