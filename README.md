@@ -85,4 +85,4 @@ Toute contribution constructive est appréciée 💙
 
 ***
 
-<img src="https://images-ext-1.discordapp.net/external/bOoFnnNdNXoq9dhQLVYrABBP_RurdD15HiX1pFcfh0g/https/media.tenor.com/-ZDt5g6w9eAAAAPo/batman-bruce-wayne.mp4"/>
+<img src=""/>
