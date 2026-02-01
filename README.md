@@ -2,7 +2,7 @@
 
 ## 📖 À propos
 
-Bienvenue dans le Wiki officiel du serveur **Athera** !
+Bienvenue dans le Wiki officiel du serveur Minecraft **Athera** !
 
 Ce guide a pour objectif de :
 
