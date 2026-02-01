@@ -85,4 +85,4 @@ Toute contribution constructive est appréciée 💙
 
 ***
 
-<iframe src="https://giphy.com/embed/ldwwMf8CW61zSiXO0g" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/batman-arkham-batsuit-ldwwMf8CW61zSiXO0g">via GIPHY</a></p>
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/b4dea47c-adf9-414e-9f34-cb26a18fa4df" />
