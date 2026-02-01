@@ -1,5 +1,5 @@
 ---
-icon: money-bill-trend-up
+icon: 🛒
 ---
 
 # Coffre de vente
