@@ -77,7 +77,8 @@ Merci de suivre ces étapes :
 5. Ouvre une Pull Request détaillée
 
 Toute contribution constructive est appréciée 💙
-***
+
+--- 
 
 `🔗`・**GitHub**: [github.com/the-mysterious](https://github.com/the-mysterious)
 
