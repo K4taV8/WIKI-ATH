@@ -1,6 +1,6 @@
 # 📘 Page
 
-## 📖・À propos
+## `📖`・À propos
 
 Bienvenue dans le Wiki officiel du serveur **Athera** !
 
@@ -12,7 +12,7 @@ Ce guide a pour objectif de :
 
 ***
 
-## 🗂️・Contenu
+## `🗂️`・Contenu
 
 La documentation est organisée en chapitres :
 
@@ -49,13 +49,13 @@ La documentation est organisée en chapitres :
 
 ***
 
-## 🌐・Accès à la documentation
+## `🌐`・Accès à la documentation
 
-📚 [Lire la documentation en ligne](https://mysterious.gitbook.io/athera-wiki/)
+`📚`・ [Lire la documentation en ligne](https://mysterious.gitbook.io/athera-wiki/)
 
 ***
 
-## 🔄・Synchronisation GitHub
+## `🔄`・Synchronisation GitHub
 
 Ce Wiki est **synchronisé automatiquement avec GitHub** :
 
@@ -65,7 +65,7 @@ Ce Wiki est **synchronisé automatiquement avec GitHub** :
 
 ***
 
-## ✍️・Contribution
+## `✍️`・Contribution
 
 Les contributions sont les bienvenues 🙌  
 Merci de suivre ces étapes :
@@ -79,9 +79,9 @@ Merci de suivre ces étapes :
 Toute contribution constructive est appréciée 💙
 ***
 
-🔗・**GitHub**: [github.com/the-mysterious](https://github.com/the-mysterious)
+`🔗`・**GitHub**: [github.com/the-mysterious](https://github.com/the-mysterious)
 
-🖋️・**Author**: The-Mysterious | K4taV8
+`🖋️`・**Author**: The-Mysterious | K4taV8
 
 ***
 
