@@ -1,8 +1,4 @@
----
-icon: 🛒
----
-
-# Coffre de vente
+# 🛒 Coffre de vente
 
 Pour créer un coffre de vente, il vous suffit de faire un clic gauche sur un coffre avec l'objet de votre choix puis d'y indiquer le prix.
 
