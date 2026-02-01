@@ -90,3 +90,4 @@ Toute contribution constructive est appréciée 💙
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt4ajA1amZuYWd6M2p4d3dxY3BoYWpscXVob3A0amhjeTR4ZTkwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ldwwMf8CW61zSiXO0g/giphy.gif"/>
 
+---
